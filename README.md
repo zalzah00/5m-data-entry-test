@@ -1,4 +1,4 @@
-# Data Professional (5 Months) Entry Assessment
+# (SCTP) Advanced Professional Certificate in Data Science and AI - Technical Assessment
 
 ## Brief
 
