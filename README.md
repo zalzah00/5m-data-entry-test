@@ -83,4 +83,6 @@ If you're unfamiliar with GitHub, start with these beginner-friendly resources:
 - [GitHub Docs: Getting Started](https://docs.github.com/en/get-started)
 
 
-> Should you face any difficulties, please contact your program administrator.
+> The ability to self-learn is an important aspect of the SCTP course.
+> Please go through the resources provided and familiarise yourself with the requirements to create the GitHub link for submission.
+
