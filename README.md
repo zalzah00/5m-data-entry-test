@@ -2,7 +2,7 @@
 
 ## Brief
 
-In this assessment, you will be given references for self study before making an attempt to 7 coding practices. To download this folder, you can clone it or download this as a zip file.
+In this assessment, you will be given references for self study before making an attempt to 7 coding practices. To download this folder, you can clone it to your GitHub account. See below for instructions.
 
 ![Screenshot](/assets/screenshot-code.png)
 
